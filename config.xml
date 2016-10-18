@@ -5,10 +5,10 @@
         id        = "com.baljagat.baljagatmobile"
         versionCode = "3"
         version   = "1.0">
-    <name>Learn Moodle</name>
+    <name>Baljagat mobile</name>
 
     <description>
-        Learn Moodle
+        Official baljagat.in mobile app.
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
